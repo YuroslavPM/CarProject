@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="listCars" type="id" />
+    <item name="viewTelNum" type="id" />
+    <item name="newmenu" type="id" />
+    <item name="new_Menu" type="id" />
+    <item name="newMenu" type="id" />
+</resources>
